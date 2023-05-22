@@ -1,4 +1,4 @@
-# Air Quality Analysis in New York City
+# [Air Quality Analysis in New York City](https://github.com/mirceaachirili/nyc_air_quality/blob/main/analysis.ipynb)
 
 This project conducts a comprehensive analysis of air quality trends in New York City, focusing on various pollutants and their geographical distribution across the five boroughs and different neighborhoods.
 
@@ -6,7 +6,7 @@ This project conducts a comprehensive analysis of air quality trends in New York
 
 The dataset used in this project contains air pollutant measurements from multiple locations in New York City, spanning several years. Each observation in the dataset represents a measurement of a specific air quality indicator in a specific location and year.
 
-Dataset link : https://data.cityofnewyork.us/api/views/c3uy-2p5r/rows.csv?accessType=DOWNLOAD
+[Dataset link](https://data.cityofnewyork.us/api/views/c3uy-2p5r/rows.csv?accessType=DOWNLOAD)
 
 # Analysis
 
